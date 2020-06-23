@@ -470,3 +470,43 @@
     	margin-left: 55px;
 	}
 }
+@media screen and (max-width: 360px){
+	.header-content{
+		width: 90%;
+		float: none;
+		margin: auto;
+	}
+	.header-profile{
+		width: 50%;
+		margin: 0;
+		position: absolute;
+		top: 70px;
+		left: 90px;
+	}
+	.header-content-controller-a {
+    	margin-top: 205px;
+    	text-align: center;
+	}
+	.header-content-controller-a hr{
+		margin: auto;
+	}
+	#home {
+    	height: 80vh;
+	}
+	.header-profile img {
+    	margin-left: 30px;
+	}
+	.content-section-q a:last-child {
+    	right: 100px;
+	}
+	.cv-link {
+    	top: 340px;
+    	left: 118px;
+	}
+	.col-2 a{
+		margin-left: 6px;
+	}
+	.col-1 p {
+    	margin-left: 45px;
+	}
+}
