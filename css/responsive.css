@@ -1,4 +1,8 @@
 @media screen and (max-width: 1100px){
+	#home{
+		height: 100%;
+		padding-bottom: 10px;
+	}
 	.header-content-controller-a{
 		margin-top: 125px;
 	}
@@ -134,10 +138,10 @@
 	.header-profile{
 		margin-top: 100px;
 	}
-	#home{
+	/*#home{
 		background: url('../images/background/running-1012478_960_720.jpg') no-repeat;
 		background-size: 100% 100%;
-	}
+	}*/
 	.about-me-main{
 		margin-top: 50px;
 	}
@@ -163,15 +167,18 @@
 	.contact-me-middle{
 		width: 65%;
 	}
-	#home{
+	/*#home{
 		height: 93vh;
-	}
+	}*/
 	.image-section-q img{
 		margin-top: -96px;
 		margin-left: -15px;
 	}
 }
 @media screen and (max-width: 600px){
+	#home{
+		padding-bottom: 40px;
+	}
 	.logo-area h2{
 		font-size: 22px;
 	}
@@ -194,9 +201,9 @@
     	font-size: 12px;
     	padding: 6px 6px;
 	}
-	#home{
+	/*#home{
 		height: 75vh;
-	}
+	}*/
 	.image-section-q{
 		margin-top: 10px;
 	}
@@ -281,10 +288,10 @@
 		width: 48%;
 		margin-left: 25px;
 	}
-	#about-me{
+	/*#about-me{
 		height: 80vh;
 	}
-	.contact-me-middle p{
+*/	.contact-me-middle p{
 		font-size: 15px;
 	}
 	.image-section-q img{
@@ -296,9 +303,9 @@
 	}
 }
 @media screen and (max-width: 550px){
-	#home{
+	/*#home{
 			background: url('../images/background/running-1012478_960_720.jpg') no-repeat center center / cover;
-	}
+	}*/
 	nav{
 		left: 73px;
 	}
@@ -326,6 +333,17 @@
 	}
 }
 @media screen and (max-width: 480px){
+	.header-profile img{
+		width: 90%;
+		margin-left: 15px;
+	}
+	.header-profile {
+    	margin-top: 85px;
+	}
+	.header-content-controller-a {
+    	margin-top: 113px;
+    	margin-left: 20px;
+	}
 	.header-content-controller-a{
 		width: 95%;
 	}
@@ -338,7 +356,7 @@
     	left: 174px;
 	}
 	#about-me {
-    	height: 100vh;
+    	/*height: 100vh;*/
     	margin-bottom: 270px;
 	}
 	.content-section-q a:last-child{
@@ -403,9 +421,9 @@
 	.header-content-controller-a{
 		margin-top: 95px;
 	}
-	#home{
+	/*#home{
 		height: 63vh;
-	}
+	}*/
 	.about-me-heading h2{
 		font-size: 20px;
 		margin-bottom: 3px;
@@ -466,27 +484,29 @@
 	.content-section-q a:last-child {
     	right: 128px;
 	}
-	#about-me{
+	/*#about-me{
 		height: 92vh;
-	}
+	}*/
 	.col-1 p {
     	margin-left: 55px;
 	}
-}
-@media screen and (max-width: 375px){
 	.header-content{
-		width: 70%;
-	}
-	.content-section-q a:last-child {
-    	right: 115px;
-	}
-	.header-content {
-    	width: 71%;
+		width: 71%;
 	}
 	.header-profile{
 		width: 28%;
 	}
 	.header-profile img {
-    	width: 95%;
+    	width: 100%;
+    	margin-left: 8px;
 	}
+}
+@media screen and (max-width: 375px){
+	.content-section-q a:last-child {
+    	right: 115px;
+	}
+	.header-content{
+    	width: 71%;
+	}
+	
 }
