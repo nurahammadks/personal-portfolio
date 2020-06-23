@@ -1,0 +1,442 @@
+@media screen and (max-width: 1100px){
+	.header-content-controller-a{
+		margin-top: 125px;
+	}
+	.header-profile{
+		margin-top: 50px;
+	}
+	.cv-link{
+    	top: 570px;
+    	left: 148px;
+	}
+	.about-me-main{
+		margin-top: 120px;
+	}
+	.content-section-q a:last-child{
+		right: 218px;
+	}
+	.bottom-controller{
+		width: 90%;
+	}
+	.col-1 p{
+		margin-left: 160px;
+	}
+}
+@media screen and (max-width: 980px){
+	nav{
+		display: none;
+	}
+	.mobile-menu{
+		display: block;
+		margin-top: 20px;
+	}
+	.mobile-menu a{
+		color: #fff;
+		text-decoration: none;
+	}
+	.logo-area{
+		width: 60%;
+	}
+	.nav-area{
+		width: 30%;
+		margin-left: 50px;
+	}
+	.header-content-controller-a h2{
+		font-size: 32px;
+	}
+	.header-content-controller-a p{
+		font-size: 22px;
+	}
+	.header-profile img{
+		width: 90%;
+		margin-left: 40px;
+	}
+	.nav-area{
+		position: relative;
+	}
+	nav{
+		position: absolute;
+		top: 0;
+		left: 170px;
+	}
+	nav a{
+		display: block;
+		font-size: 12px;
+		margin-right: 0;
+		text-align: center;
+		padding: 7px 11px;
+		margin-bottom: 10px;
+	}
+	nav a:last-child{
+		margin-bottom: 0;
+	}
+	.cv-link {
+    	top: 485px;
+    	left: 122px;
+	}
+	.content-section-q p{
+		font-size: 15px;
+	}
+	.about-me-heading h2{
+		font-size: 30px;
+	}
+	.about-me-heading hr{
+		width: 80px;
+		border-top: 3px solid #333;
+	}
+	.content-section-q h2{
+		font-size: 20px;
+		margin-left: 5px;
+	}
+	.content-section-q hr{
+		width: 50px;
+		margin-left: 28px;
+	}
+	.content-section-q a:last-child{
+		right: 160px;
+	}
+	.about-me-main{
+		margin-top: 100px;
+	}
+	.social-links{
+		width: 100%;
+	}
+	.contact-me-top h2{
+		font-size: 30px;
+	}
+	.contact-me-middle p{
+		font-size: 20px;
+	}
+	.header-content-controller-a hr{
+		width: 35px;
+	}
+}
+@media screen and (max-width: 768px){
+	nav{
+		top: 17px;
+		left: 150px;
+	}
+	.header-profile img{
+		margin-left: 0;
+	}
+	nav a{
+		font-size: 11px;
+		padding: 7px 8px;
+	}
+	.header-profile{
+		margin-top: 100px;
+	}
+	#home{
+		background: url('../images/background/running-1012478_960_720.jpg') no-repeat;
+		background-size: 100% 100%;
+	}
+	.about-me-main{
+		margin-top: 50px;
+	}
+	.image-section-q{
+		margin-top: 65px;
+	}
+	.content-section-q{
+		width: 52%;
+	}
+	.content-section-q p{
+		padding: 0;
+	}
+	.image-section-q img{
+		width: 90%;
+	}
+	.cv-link {
+    	top: 480px;
+    	left: 105px;
+	}
+	.content-section-q a:last-child{
+		right: 50px;
+	}
+	.contact-me-middle{
+		width: 65%;
+	}
+	#home{
+		height: 93vh;
+	}
+}
+@media screen and (max-width: 600px){
+	.logo-area h2{
+		font-size: 22px;
+	}
+	.mobile-menu a i{
+		font-size: 22px;
+	}
+	nav{
+		left: 95px;
+	}
+	.header-content-controller-a h2{
+		font-size: 22px;
+	}
+	.header-content-controller-a p{
+		font-size: 16px;
+	}
+	.header-content-controller-a hr{
+		width: 23px;
+	}
+	nav a {
+    	font-size: 12px;
+    	padding: 6px 6px;
+	}
+	#home{
+		height: 75vh;
+	}
+	.image-section-q{
+		margin-top: 10px;
+	}
+	.cv-link {
+    	top: 355px;
+    	left: 67px;
+	}
+	button{
+		font-size: 12px;
+		padding: 8px 10px;
+	}
+	.content-section-q a{
+		font-size: 10px;
+		padding: 8px 10px;
+		width: 85px;
+	}
+	.content-section-q a:last-child{
+		right: 85px;
+	}
+	.about-me-heading h2{
+		font-size: 22px;
+	}
+	.content-section-q h2{
+		font-size: 18px;
+	}
+	.content-section-q hr{
+		margin-left: 25px;
+	}
+	.content-section-q p{
+		font-size: 13px;
+	}
+	.cv-link a{
+		font-size: 13px;
+	}
+	.contact-me-top h2{
+		font-size: 22px;
+		margin-bottom: 5px;
+	}
+	.contact-me-top hr{
+		width: 80px;
+		border: 2px solid #fff;
+	}
+	.social-content p{
+		font-size: 22px;
+	}
+	.contact-me-middle input[type="submit"]{
+		padding: 8px 18px;
+		font-size: 15px;
+	}
+	.contact-me-middle input[type="text"],
+	.contact-me-middle input[type="email"],
+	.contact-me-middle input[type="number"],
+	.contact-me-middle textarea{
+		font-size: 15px;
+		padding: 8px 16px;
+	}
+	.social-links a i{
+		font-size: 20px;
+		margin-top: 7px;
+	}
+	.social-links a{
+		width: 35px;
+		height: 35px;
+	}
+	.col-1 p{
+		margin-left: 100px;
+		font-size: 15px;
+	}
+	.col-2 a i{
+		font-size: 16px;
+	}
+	.col-2 a{
+		padding: 4px 12px;
+	}
+	.about-me-main{
+		width: 96%;
+	}
+	.image-section-q{
+		width: 44%;
+	}
+	.content-section-q{
+		width: 48%;
+		margin-left: 25px;
+	}
+	#about-me{
+		height: 80vh;
+	}
+	.contact-me-middle p{
+		font-size: 15px;
+	}
+}
+@media screen and (max-width: 550px){
+	nav{
+		left: 73px;
+	}
+	.nav-area{
+		margin-left: 0;
+	}
+	.logo-area{
+		width: 65%;
+	}
+	.cv-link {
+    	top: 343px;
+    	left: 57px;
+	}
+	.content-section-q a:last-child {
+    	right: 53px;
+    	padding: 8px 11px;
+	}
+}
+@media screen and (max-width: 480px){
+	.header-content-controller-a{
+		width: 95%;
+	}
+	nav{
+		top: 10px;
+		left: 65px;
+	}
+	.cv-link {
+    	top: 355px;
+    	left: 173px;
+	}
+	#about-me {
+    	height: 100vh;
+    	margin-bottom: 270px;
+	}
+	.content-section-q a:last-child{
+		right: 215px;
+	}
+	.col-1 p{
+		margin-left: 78px;
+	}
+	.image-section-q{
+		float: none;
+		width: 60%;
+		margin: auto;
+		text-align: center;
+		margin-bottom: 50px;
+	}
+	.content-section-q{
+		float: none;
+	}
+	.about-me-heading{
+    	margin-top: 30px;
+    	margin-bottom: 0px;
+	}
+	.about-me-main{
+		width: 100%;
+	}
+	.content-section-q{
+		width: 90%;
+	}
+	.content-section-q h2{
+		text-align: center;
+	}
+	.content-section-q hr{
+    	margin: auto;
+    	margin-bottom: 10px;
+	}
+}
+@media screen and (max-width: 400px){
+	.logo-area{
+		width: 80%;
+	}
+	.logo-area h2{
+		margin-left: 13px;
+		font-size: 20px;
+	}
+	.nav-area{
+		width: 16%;
+	}
+	nav{
+		left: -7px;
+	}
+	nav a{
+		font-size: 10px;
+		padding: 6px 4px;
+	}
+	.header-content-controller-a h2{
+		font-size: 20px;
+	}
+	.header-content-controller-a p{
+		font-size: 12px;
+		color: #fff;
+	}
+	.header-content-controller-a{
+		margin-top: 95px;
+	}
+	#home{
+		height: 63vh;
+	}
+	.about-me-heading h2{
+		font-size: 20px;
+		margin-bottom: 3px;
+	}
+	.about-me-heading hr{
+		width: 75px;
+	}
+	.cv-link {
+    	top: 304px;
+    	left: 137px;
+	}
+	.content-section-q a:last-child {
+    	right: 148px;
+	}
+	.contact-me-middle{
+		width: 80%;
+	}
+	.contact-me-middle textarea{
+		height: 200px;
+	}
+	.col-1 p {
+    	margin-left: 65px;
+	}
+	.content-section-q h2 {
+    	font-size: 16px;
+	}
+	.contact-me-top h2{
+		font-size: 20px;
+	}
+	.contact-me-top hr{
+		width: 66px;
+		border: 1px solid #fff;
+	}
+	.contact-me-top p{
+		font-size: 11px;
+	}
+	.contact-me-middle p{
+		font-size: 13px;
+		margin-top: 25px;
+		margin-bottom: 30px;
+	}
+}
+@media screen and (max-width: 380px){
+	.header-content-controller-a {
+    	width: 100%;
+    	margin-left: 10px;
+	}
+	.header-profile img {
+    	margin-left: 15px;
+	}
+	.cv-link {
+    	top: 297px;
+    	left: 131px;
+	}
+	.content-section-q a:last-child {
+    	right: 128px;
+	}
+	#about-me{
+		height: 92vh;
+	}
+	.col-1 p {
+    	margin-left: 55px;
+	}
+}
