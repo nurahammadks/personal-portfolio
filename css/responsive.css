@@ -357,7 +357,8 @@
 	}
 	#about-me {
     	/*height: 100vh;*/
-    	margin-bottom: 270px;
+    	margin-bottom: 0;
+    	height: 675px;
 	}
 	.content-section-q a:last-child{
 		right: 215px;
@@ -466,10 +467,15 @@
 		margin-bottom: 30px;
 	}
 	#about-me {
-    	margin-bottom: 320px;
+    	margin-bottom: 0;
+    	height: 635px;
 	}
 }
 @media screen and (max-width: 380px){
+	#about-me{
+		margin-bottom: 0;
+		height: 610px;
+	}
 	.header-content-controller-a {
     	width: 100%;
     	margin-left: 10px;
@@ -478,8 +484,8 @@
     	margin-left: 15px;
 	}
 	.cv-link {
-    	top: 355px;
-    	left: 131px;
+    	top: 353px;
+    	left: 126px;
 	}
 	.content-section-q a:last-child {
     	right: 128px;
@@ -507,6 +513,10 @@
 	}
 	.header-content{
     	width: 71%;
+	}
+	.cv-link {
+    	top: 339px;
+    	left: 120px;
 	}
 	
 }
