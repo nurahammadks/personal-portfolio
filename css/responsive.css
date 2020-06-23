@@ -6,8 +6,8 @@
 		margin-top: 50px;
 	}
 	.cv-link{
-    	top: 570px;
-    	left: 148px;
+    	top: 630px;
+    	left: 155px;
 	}
 	.about-me-main{
 		margin-top: 120px;
@@ -20,6 +20,11 @@
 	}
 	.col-1 p{
 		margin-left: 160px;
+	}
+	.image-section-q img{
+		margin-top: -20px;
+		width: 75%;
+		margin-left: 20px;
 	}
 }
 @media screen and (max-width: 980px){
@@ -49,7 +54,7 @@
 	}
 	.header-profile img{
 		width: 90%;
-		margin-left: 40px;
+		margin-left: -20px;
 	}
 	.nav-area{
 		position: relative;
@@ -71,8 +76,8 @@
 		margin-bottom: 0;
 	}
 	.cv-link {
-    	top: 485px;
-    	left: 122px;
+    	top: 530px;
+    	left: 140px;
 	}
 	.content-section-q p{
 		font-size: 15px;
@@ -110,6 +115,9 @@
 	.header-content-controller-a hr{
 		width: 35px;
 	}
+	.image-section-q img{
+		margin-top: -25px;
+	}
 }
 @media screen and (max-width: 768px){
 	nav{
@@ -146,8 +154,8 @@
 		width: 90%;
 	}
 	.cv-link {
-    	top: 480px;
-    	left: 105px;
+    	top: 473px;
+    	left: 87px;
 	}
 	.content-section-q a:last-child{
 		right: 50px;
@@ -157,6 +165,10 @@
 	}
 	#home{
 		height: 93vh;
+	}
+	.image-section-q img{
+		margin-top: -96px;
+		margin-left: -15px;
 	}
 }
 @media screen and (max-width: 600px){
@@ -189,8 +201,8 @@
 		margin-top: 10px;
 	}
 	.cv-link {
-    	top: 355px;
-    	left: 67px;
+    	top: 402px;
+    	left: 70px;
 	}
 	button{
 		font-size: 12px;
@@ -275,6 +287,13 @@
 	.contact-me-middle p{
 		font-size: 15px;
 	}
+	.image-section-q img{
+    	margin-top: -25px;
+    	margin-left: 10px;
+	}
+	.content-section-q a:last-child{
+    	padding: 8px 10px;
+	}
 }
 @media screen and (max-width: 550px){
 	nav{
@@ -287,12 +306,20 @@
 		width: 65%;
 	}
 	.cv-link {
-    	top: 343px;
-    	left: 57px;
+    	top: 403px;
+    	left: 65px;
 	}
 	.content-section-q a:last-child {
     	right: 53px;
     	padding: 8px 11px;
+	}
+	.header-profile img {
+    	width: 85%;
+	}
+	.image-section-q img{
+		width: 100%;
+		margin-left: 0;
+		margin-top: -32px;
 	}
 }
 @media screen and (max-width: 480px){
@@ -304,8 +331,8 @@
 		left: 65px;
 	}
 	.cv-link {
-    	top: 355px;
-    	left: 173px;
+    	top: 443px;
+    	left: 174px;
 	}
 	#about-me {
     	height: 100vh;
@@ -384,7 +411,7 @@
 		width: 75px;
 	}
 	.cv-link {
-    	top: 304px;
+    	top: 372px;
     	left: 137px;
 	}
 	.content-section-q a:last-child {
@@ -417,6 +444,9 @@
 		margin-top: 25px;
 		margin-bottom: 30px;
 	}
+	#about-me {
+    	margin-bottom: 320px;
+	}
 }
 @media screen and (max-width: 380px){
 	.header-content-controller-a {
@@ -427,7 +457,7 @@
     	margin-left: 15px;
 	}
 	.cv-link {
-    	top: 297px;
+    	top: 355px;
     	left: 131px;
 	}
 	.content-section-q a:last-child {
