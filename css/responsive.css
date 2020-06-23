@@ -138,10 +138,6 @@
 	.header-profile{
 		margin-top: 100px;
 	}
-	/*#home{
-		background: url('../images/background/running-1012478_960_720.jpg') no-repeat;
-		background-size: 100% 100%;
-	}*/
 	.about-me-main{
 		margin-top: 50px;
 	}
@@ -167,9 +163,6 @@
 	.contact-me-middle{
 		width: 65%;
 	}
-	/*#home{
-		height: 93vh;
-	}*/
 	.image-section-q img{
 		margin-top: -96px;
 		margin-left: -15px;
@@ -201,9 +194,6 @@
     	font-size: 12px;
     	padding: 6px 6px;
 	}
-	/*#home{
-		height: 75vh;
-	}*/
 	.image-section-q{
 		margin-top: 10px;
 	}
@@ -288,10 +278,7 @@
 		width: 48%;
 		margin-left: 25px;
 	}
-	/*#about-me{
-		height: 80vh;
-	}
-*/	.contact-me-middle p{
+	.contact-me-middle p{
 		font-size: 15px;
 	}
 	.image-section-q img{
@@ -303,9 +290,6 @@
 	}
 }
 @media screen and (max-width: 550px){
-	/*#home{
-			background: url('../images/background/running-1012478_960_720.jpg') no-repeat center center / cover;
-	}*/
 	nav{
 		left: 73px;
 	}
@@ -356,7 +340,6 @@
     	left: 174px;
 	}
 	#about-me {
-    	/*height: 100vh;*/
     	margin-bottom: 0;
     	height: 675px;
 	}
@@ -422,9 +405,6 @@
 	.header-content-controller-a{
 		margin-top: 95px;
 	}
-	/*#home{
-		height: 63vh;
-	}*/
 	.about-me-heading h2{
 		font-size: 20px;
 		margin-bottom: 3px;
@@ -490,9 +470,6 @@
 	.content-section-q a:last-child {
     	right: 128px;
 	}
-	/*#about-me{
-		height: 92vh;
-	}*/
 	.col-1 p {
     	margin-left: 55px;
 	}
