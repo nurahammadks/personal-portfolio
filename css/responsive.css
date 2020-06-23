@@ -296,6 +296,9 @@
 	}
 }
 @media screen and (max-width: 550px){
+	#home{
+			background: url('../images/background/running-1012478_960_720.jpg') no-repeat center center / cover;
+	}
 	nav{
 		left: 73px;
 	}
@@ -468,6 +471,14 @@
 	}
 	.col-1 p {
     	margin-left: 55px;
+	}
+}
+@media screen and (max-width: 375px){
+	.header-content{
+		width: 70%;
+	}
+	.content-section-q a:last-child {
+    	right: 115px;
 	}
 }
 @media screen and (max-width: 360px){
