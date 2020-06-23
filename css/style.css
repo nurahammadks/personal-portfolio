@@ -82,9 +82,6 @@ nav a:hover{
 	color: #000;
 	background: #fff;
 }
-/*.header-middle{
-	margin-top: 150px;
-}*/
 .header-middle:after{
 	content: '';
 	clear: both;
@@ -95,7 +92,6 @@ nav a:hover{
 	float: left;
 }
 .header-content-controller-a{
-	/*margin-left: 140px;*/
 	width: 80%;
 	margin: auto;
 	margin-top: 150px;
@@ -103,8 +99,7 @@ nav a:hover{
 .header-profile{
 	width: 30%;
 	float: left;
-	/*text-align: right;*/
-	margin-top: 70px;
+	margin-top: 90px;
 }
 .header-content-controller-a h2{
 	font-variant: small-caps;
@@ -152,8 +147,8 @@ nav a:hover{
 }
 .cv-link{
 	position: absolute;
-	top: 600px;
-	left: 345px;
+	top: 550px;
+	left: 280px;
 }
 .cv-link a{
 	text-decoration: none;
@@ -185,7 +180,9 @@ nav a:hover{
 	float: left;
 }
 .image-section-q img{
-	width: 80%;
+	width: 60%;
+	margin-top: -40px;
+	margin-left: 50px;
 }
 .content-section-q{
 	width: 48%;
